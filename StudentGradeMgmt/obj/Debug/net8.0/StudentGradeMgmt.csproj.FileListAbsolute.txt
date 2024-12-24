@@ -1,0 +1,15 @@
+C:\Users\sundar\source\repos\StudentGradeMgmt\obj\Debug\net8.0\StudentGradeMgmt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sundar\source\repos\StudentGradeMgmt\obj\Debug\net8.0\StudentGradeMgmt.AssemblyInfoInputs.cache
+C:\Users\sundar\source\repos\StudentGradeMgmt\obj\Debug\net8.0\StudentGradeMgmt.AssemblyInfo.cs
+C:\Users\sundar\source\repos\StudentGradeMgmt\obj\Debug\net8.0\StudentGradeMgmt.csproj.CoreCompileInputs.cache
+C:\Users\sundar\source\repos\StudentGradeMgmt\bin\Debug\net8.0\StudentGradeMgmt.exe
+C:\Users\sundar\source\repos\StudentGradeMgmt\bin\Debug\net8.0\StudentGradeMgmt.deps.json
+C:\Users\sundar\source\repos\StudentGradeMgmt\bin\Debug\net8.0\StudentGradeMgmt.runtimeconfig.json
+C:\Users\sundar\source\repos\StudentGradeMgmt\bin\Debug\net8.0\StudentGradeMgmt.dll
+C:\Users\sundar\source\repos\StudentGradeMgmt\bin\Debug\net8.0\StudentGradeMgmt.pdb
+C:\Users\sundar\source\repos\StudentGradeMgmt\obj\Debug\net8.0\StudentGradeMgmt.dll
+C:\Users\sundar\source\repos\StudentGradeMgmt\obj\Debug\net8.0\refint\StudentGradeMgmt.dll
+C:\Users\sundar\source\repos\StudentGradeMgmt\obj\Debug\net8.0\StudentGradeMgmt.pdb
+C:\Users\sundar\source\repos\StudentGradeMgmt\obj\Debug\net8.0\StudentGradeMgmt.genruntimeconfig.cache
+C:\Users\sundar\source\repos\StudentGradeMgmt\obj\Debug\net8.0\ref\StudentGradeMgmt.dll
+C:\Users\sundar\source\repos\StudentGradeMgmt\obj\Debug\net8.0\StudentGradeMgmt.sourcelink.json
